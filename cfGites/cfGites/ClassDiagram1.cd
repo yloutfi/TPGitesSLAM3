@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cfGites.contrat">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAIAAAAAAAAAAAAAABAABAAIBAQ=</HashCode>
+      <FileName>contrat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cfGites.gite">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAgQEAAEAAAAAAEAAAAAAAAAAIAEA=</HashCode>
+      <FileName>gite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cfGites.ModelGites">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAgECgAAABAAAAAAAAIAEA=</HashCode>
+      <FileName>ModelGites.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cfGites.client">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAgAAAAAAIACAAAAAgABAAAAAAAAA=</HashCode>
+      <FileName>client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cfGites.periode">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAIAAIAAAAAAAAAAAAAAABEA=</HashCode>
+      <FileName>periode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cfGites.planning">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAABAIAAEAAAAACAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>planning.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cfGites.semaine">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAEAAAIAAAAAAAAQAAAAAAAAJAAA=</HashCode>
+      <FileName>semaine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cfGites.tarif">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAMAABAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>tarif.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
